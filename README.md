@@ -75,7 +75,7 @@ Key milestones include:
 ## Project Documentation
 Detailed documentation including the proposal, timeline, risk assessment, and design specifications is available below:
 
-- [LapStore Project Documentation](Media/GymStoreDocumentation.pdf)
+- [GymStore Project Documentation](Media/GymStoreDocumentation.pdf)
 ---
 ## Key Performance Indicators (KPIs)
 - System Availability: 99%.
