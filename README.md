@@ -45,7 +45,7 @@ The ERD displays relationships between entities such as members, trainers, subsc
 ### Logical Schema
 The schema outlines the structure of database tables and relationships.
 
-![Logical Schema](/Media/ECommerceERD.jpg)
+![Logical Schema](/Media/DatabaseSchema.PNG)
 
 
 
