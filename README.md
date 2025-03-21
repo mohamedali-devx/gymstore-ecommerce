@@ -40,12 +40,12 @@ A full-stack e-commerce web app for a Health &amp; Fitness store. Includes gym e
 ### ERD (Entity-Relationship Diagram)
 The ERD displays relationships between entities such as members, trainers, subscriptions, and packages.
 
-![ERD](/Media/ECommerceERD.png)
+![ERD](/Media/ECommerceERD.jpg)
 
 ### Logical Schema
 The schema outlines the structure of database tables and relationships.
 
-![Logical Schema](/Media/ECommerceERD.png)
+![Logical Schema](/Media/ECommerceERD.jpg)
 
 
 
@@ -55,7 +55,7 @@ The schema outlines the structure of database tables and relationships.
 ## Use Case Diagram
 The following diagram represents user interactions including registering, subscribing, assigning trainers, and more.
 
-![Use Case Diagram](/Media/UseCaseDiagramForE_CommerceApplication.png)
+![Use Case Diagram](/Media/UseCaseDiagramForE_CommerceApplication.jpg)
 
 ---
 
@@ -66,7 +66,7 @@ Key milestones include:
 -Frontend and backend development.
 -Testing and deployment.
 
-![Timeline](/Media/GanttChartE-commerce.png)
+![Timeline](/Media/GanttChartE-commerce.jpg)
 
 
 
