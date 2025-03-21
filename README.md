@@ -66,7 +66,7 @@ Key milestones include:
 -Frontend and backend development.
 -Testing and deployment.
 
-![Timeline](/Media/GanttChartE-commerce.jpg)
+![Timeline](/Media/GanttChartE-commerce.PNG)
 
 
 
