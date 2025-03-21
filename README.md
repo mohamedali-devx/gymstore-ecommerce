@@ -9,7 +9,7 @@ A full-stack e-commerce web app for a Health &amp; Fitness store. Includes gym e
 - Add to cart and checkout
 - Admin dashboard for managing products
 - User-friendly interface: Easy navigation and search functionality.
-- 
+  
 ---
 
 ## Tech Stack
