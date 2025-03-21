@@ -45,7 +45,7 @@ The ERD displays relationships between entities such as members, trainers, subsc
 ### Logical Schema
 The schema outlines the structure of database tables and relationships.
 
-![Logical Schema](/Media/GymStoreSchema.png)
+![Logical Schema](/Media/ECommerceERD.png)
 
 
 
@@ -66,7 +66,7 @@ Key milestones include:
 -Frontend and backend development.
 -Testing and deployment.
 
-![Timeline](/Media/project-timeline.png)
+![Timeline](/Media/GanttChartE-commerce.png)
 
 
 
@@ -85,7 +85,7 @@ Detailed documentation including the proposal, timeline, risk assessment, and de
 
 ## Team Members
 - [Mohamed Ali](https://github.com/mohamedali-devx)
-- [Mohamed Talal]
+- [Mohamed Talal](https://github.com/mohameddtalal)
 - [Belal Mohamed]
 - [Ahmed Mohamed]
 
