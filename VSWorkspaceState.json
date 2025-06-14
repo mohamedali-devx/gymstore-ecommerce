@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\GymStore.BLL",
+    "\\GymStore.BLL\\DependencyInjections",
+    "\\GymStore.DAL",
+    "\\GymStore.DAL\\Data",
+    "\\GymStore.DAL\\Data\\Contexts",
+    "\\GymStore.DAL\\Data\\Entities",
+    "\\GymStore.DAL\\Interfaces",
+    "\\GymStore.DAL\\Repositories",
+    "\\GymStore.Test\\bin",
+    "\\GymStore.Test\\Helpers"
+  ],
+  "SelectedNode": "\\GymStore.DAL\\Data\\Contexts\\GymStoreDbContext.cs",
+  "PreviewInSolutionExplorer": false
+}
